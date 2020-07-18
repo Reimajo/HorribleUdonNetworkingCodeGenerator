@@ -1,0 +1,11 @@
+C:\Users\Felix\source\repos\ApplicationWhichIsHorrible\WindowsApp1\bin\Debug\OhNoes.exe.config
+C:\Users\Felix\source\repos\ApplicationWhichIsHorrible\WindowsApp1\bin\Debug\OhNoes.exe
+C:\Users\Felix\source\repos\ApplicationWhichIsHorrible\WindowsApp1\bin\Debug\OhNoes.pdb
+C:\Users\Felix\source\repos\ApplicationWhichIsHorrible\WindowsApp1\bin\Debug\OhNoes.xml
+C:\Users\Felix\source\repos\ApplicationWhichIsHorrible\WindowsApp1\obj\Debug\OhNoes.vbprojAssemblyReference.cache
+C:\Users\Felix\source\repos\ApplicationWhichIsHorrible\WindowsApp1\obj\Debug\OhPleaseNot.owo.resources
+C:\Users\Felix\source\repos\ApplicationWhichIsHorrible\WindowsApp1\obj\Debug\OhPleaseNot.Resources.resources
+C:\Users\Felix\source\repos\ApplicationWhichIsHorrible\WindowsApp1\obj\Debug\OhNoes.vbproj.GenerateResource.cache
+C:\Users\Felix\source\repos\ApplicationWhichIsHorrible\WindowsApp1\obj\Debug\OhNoes.exe
+C:\Users\Felix\source\repos\ApplicationWhichIsHorrible\WindowsApp1\obj\Debug\OhNoes.xml
+C:\Users\Felix\source\repos\ApplicationWhichIsHorrible\WindowsApp1\obj\Debug\OhNoes.pdb

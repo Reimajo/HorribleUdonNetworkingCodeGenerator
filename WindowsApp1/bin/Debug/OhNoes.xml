@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OhNoes
+</name>
+</assembly>
+<members>
+<member name="T:OhPleaseNot.My.Resources.Resources">
+<summary>
+  Eine stark typisierte Ressourcenklasse zum Suchen von lokalisierten Zeichenfolgen usw.
+</summary>
+</member>
+<member name="P:OhPleaseNot.My.Resources.Resources.ResourceManager">
+<summary>
+  Gibt die zwischengespeicherte ResourceManager-Instanz zurück, die von dieser Klasse verwendet wird.
+</summary>
+</member>
+<member name="P:OhPleaseNot.My.Resources.Resources.Culture">
+<summary>
+  Überschreibt die CurrentUICulture-Eigenschaft des aktuellen Threads für alle
+  Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
+</summary>
+</member>
+<member name="M:OhPleaseNot.owo.ButtonStartConversion_Click(System.Object,System.EventArgs)">
+ <summary>
+ Don't look at this, it's the worst shit I ever wrote
+ </summary>
+</member>
+<member name="M:OhPleaseNot.owo.InsertTextFieldArrayIntoString(System.String,System.String[],System.Windows.Forms.TextBox)">
+ <summary>
+ Inserting one other textbox array input into the result
+ </summary>
+</member>
+</members>
+</doc>
